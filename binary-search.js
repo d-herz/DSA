@@ -20,4 +20,4 @@ function binarySearch(arr, target) {
 // Sorted list
 const arr = [1, 3, 5, 6, 7, 8, 9];
 console.log(binarySearch(arr, 3)); // Output: 1
-console.log(binarySearch(arr, 6)); // Output: -1
+console.log(binarySearch(arr, 6)); // Output: 3
